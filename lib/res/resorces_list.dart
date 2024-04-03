@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-var category=[
+
+var category = [
   true,
   false,
   false,
@@ -41,7 +42,7 @@ var names = [
   "Macchiato",
   "Double",
 ];
-var with_=[
+var with_ = [
   "with Oat Milk",
   "with Chocolate",
   "with White Milk",
@@ -54,9 +55,8 @@ var with_=[
   "with Oat Milk",
   "with Chocolate",
   "with White Milk",
-
 ];
-var prices=[
+var prices = [
   "4.20",
   "5.10",
   "2.86",
